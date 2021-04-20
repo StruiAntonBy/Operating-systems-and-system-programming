@@ -1,0 +1,4 @@
+1) стр 260
+2) https://www.opennet.ru/man.shtml?topic=sigaction&category=2&russian=0
+3) https://www.opennet.ru/man.shtml?topic=sigemptyset&category=3&russian=0
+4) https://www.opennet.ru/man.shtml?topic=sigprocmask&category=2&russian=0

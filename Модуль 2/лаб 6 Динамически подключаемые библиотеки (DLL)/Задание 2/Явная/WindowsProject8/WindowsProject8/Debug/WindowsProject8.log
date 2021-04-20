@@ -1,0 +1,8 @@
+﻿  WindowsProject8.cpp
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 6\Задание 2\Явная\WindowsProject8\WindowsProject8\WindowsProject8.cpp(35,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 6\Задание 2\Явная\WindowsProject8\WindowsProject8\WindowsProject8.cpp(96,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 6\Задание 2\Явная\WindowsProject8\WindowsProject8\WindowsProject8.cpp(112,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 6\Задание 2\Явная\WindowsProject8\WindowsProject8\WindowsProject8.cpp(116,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 6\Задание 2\Явная\WindowsProject8\WindowsProject8\WindowsProject8.cpp(244,18): warning C4101: key: неиспользованная локальная переменная
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 6\Задание 2\Явная\WindowsProject8\WindowsProject8\WindowsProject8.cpp(90): warning C4715: Number: значение возвращается не при всех путях выполнения
+  WindowsProject8.vcxproj -> C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 6\Задание 2\Явная\WindowsProject8\Debug\WindowsProject8.exe

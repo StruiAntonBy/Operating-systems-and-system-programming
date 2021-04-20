@@ -1,0 +1,5 @@
+1) https://docs.microsoft.com/en-gb/windows/win32/memory/heap-functions?redirectedfrom=MSDN
+2) https://docs.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-mapviewoffile
+3) https://docs.microsoft.com/ru-ru/windows/win32/api/fileapi/nf-fileapi-createfilea
+4) https://firststeps.ru/mfc/winapi/r.php?121
+5) https://docs.microsoft.com/en-us/previous-versions/windows/desktop/legacy/aa366535(v=vs.85)

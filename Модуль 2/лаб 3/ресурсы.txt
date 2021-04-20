@@ -1,0 +1,10 @@
+1) https://iconbird.com/search/?q=шашки
+2) https://frolov-lib.ru/books/bsp.old/v12/ch1.htm
+3) https://docs.microsoft.com/en-us/windows/win32/winmsg/window-styles
+4) https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messagebox
+5) https://proginfo.ru/round/
+6) https://tools.seo-zona.ru/color.html
+7) https://docs.microsoft.com/en-us/windows/win32/api/windef/ns-windef-rect
+8) http://cppstudio.com/post/439/
+9) http://softtime.ru/files/books/Petzold1.pdf
+10) http://radiofront.narod.ru/htm/prog/htm/winda/api/paint.html

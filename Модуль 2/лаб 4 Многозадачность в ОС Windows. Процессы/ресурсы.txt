@@ -1,0 +1,14 @@
+1) https://stackoverflow.com/questions/15018778/get-the-pid-of-the-process-started-by-createprocess
+2) https://winnote.ru/main/676-kak-uznat-pid-identifikator-processa-v-windows.html
+3) https://firststeps.ru/mfc/winapi/r.php?131
+4) http://www.vsokovikov.narod.ru/New_MSDN_API/Process_thread/fn_createprocess.htm
+5) https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createprocessa
+6) https://ru.stackoverflow.com/questions/723497/В-чем-разница-между-pid-и-handle-процесса
+7) https://docs.microsoft.com/en-us/windows/win32/api/shellapi/nf-shellapi-shellexecutea
+8) http://forum.codenet.ru/q3595/Траблы+с+ShellExecute
+9) http://rusproject.narod.ru/winapi/s/shellexecute.html
+10) https://docs.microsoft.com/en-us/windows/win32/winmsg/window-styles
+11) https://www.cyberforum.ru/win-api/thread724823.html
+12) https://www.cyberforum.ru/win-api/thread2003592.html
+13) https://icon-icons.com/ru/Поиск/иконки/?filtro=dock
+14) http://www.vsokovikov.narod.ru/New_MSDN_API/Dlg_box/fn_messagebox.htm

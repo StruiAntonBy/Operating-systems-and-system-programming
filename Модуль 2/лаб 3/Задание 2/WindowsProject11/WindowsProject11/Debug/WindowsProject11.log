@@ -1,0 +1,13 @@
+﻿  board.cpp
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 3\Задание 2\WindowsProject11\WindowsProject11\board.cpp(29,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 3\Задание 2\WindowsProject11\WindowsProject11\board.cpp(30,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 3\Задание 2\WindowsProject11\WindowsProject11\board.cpp(45,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 3\Задание 2\WindowsProject11\WindowsProject11\board.cpp(46,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 3\Задание 2\WindowsProject11\WindowsProject11\board.cpp(84,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 3\Задание 2\WindowsProject11\WindowsProject11\board.cpp(85,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  cell.cpp
+  figure.cpp
+  PlateWindow.cpp
+  WindowsProject11.cpp
+  Создание кода...
+  WindowsProject11.vcxproj -> C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 3\Задание 2\WindowsProject11\Debug\WindowsProject11.exe

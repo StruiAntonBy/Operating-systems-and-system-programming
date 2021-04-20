@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+C:\Users\User\source\repos\Dll3\Dll3\dllmain.cpp(25,68): warning C4190: для "getDecNumber" задана С-связывание, но возвращаемый тип UDT "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>" несовместим с языком Си
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\xstring(4565): message : см. объявление "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>"
+C:\Users\User\source\repos\Dll3\Dll3\dllmain.cpp(31,54): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Dll3\Dll3\dllmain.cpp(37,64): warning C4190: для "getBinNumber" задана С-связывание, но возвращаемый тип UDT "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>" несовместим с языком Си
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\xstring(4565): message : см. объявление "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>"
+C:\Users\User\source\repos\Dll3\Dll3\dllmain.cpp(41,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\Dll3\Dll3\dllmain.cpp(45,40): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\User\source\repos\Dll3\Debug\Dll3.lib и объект C:\Users\User\source\repos\Dll3\Debug\Dll3.exp
+  Dll3.vcxproj -> C:\Users\User\source\repos\Dll3\Debug\Dll3.dll

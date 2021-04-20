@@ -1,0 +1,9 @@
+1) https://kvodo.ru/simvolyi-i-stroki-zadacha-11.html
+2) https://www.cyberforum.ru/cpp-beginners/thread1563324.html
+3) https://www.cyberforum.ru/cpp-beginners/thread174543.html
+4) file:///C:/Users/User/Downloads/Num33_Lecture16_part2.pdf
+5) https://books.ifmo.ru/file/pdf/614.pdf
+6) https://docs.microsoft.com/en-us/windows/win32/winmsg/window-styles
+7) https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
+8) https://www.sql.ru/forum/634713/winapi-klaviatura
+9) http://radiofront.narod.ru/htm/prog/htm/winda/api/key.html

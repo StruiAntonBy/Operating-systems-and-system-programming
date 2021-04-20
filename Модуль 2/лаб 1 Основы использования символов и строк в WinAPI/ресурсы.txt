@@ -1,0 +1,8 @@
+1) https://docs.microsoft.com/en-us/windows/win32/api/stringapiset/nf-stringapiset-widechartomultibyte
+2) https://www.rsdn.org/forum/winapi/7158148.all
+3) https://books.ifmo.ru/file/pdf/614.pdf
+4) https://habr.com/ru/post/164193/
+5) http://espressocode.top/wcslen-function-in-cpp-with-examples/
+6) https://en.cppreference.com/w/cpp/string/wide/wcsrchr
+7) http://espressocode.top/wcsrchr-function-in-c-c/
+8) http://cppstudio.com/post/735/

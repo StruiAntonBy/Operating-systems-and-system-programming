@@ -1,0 +1,11 @@
+﻿  WindowsProject8.cpp
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 2\Задание 3\WindowsProject8\WindowsProject8\WindowsProject8.cpp(35,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 2\Задание 3\WindowsProject8\WindowsProject8\WindowsProject8.cpp(96,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 2\Задание 3\WindowsProject8\WindowsProject8\WindowsProject8.cpp(118,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 2\Задание 3\WindowsProject8\WindowsProject8\WindowsProject8.cpp(127,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 2\Задание 3\WindowsProject8\WindowsProject8\WindowsProject8.cpp(131,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 2\Задание 3\WindowsProject8\WindowsProject8\WindowsProject8.cpp(143,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 2\Задание 3\WindowsProject8\WindowsProject8\WindowsProject8.cpp(147,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 2\Задание 3\WindowsProject8\WindowsProject8\WindowsProject8.cpp(265,18): warning C4101: key: неиспользованная локальная переменная
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 2\Задание 3\WindowsProject8\WindowsProject8\WindowsProject8.cpp(90): warning C4715: Number: значение возвращается не при всех путях выполнения
+  WindowsProject8.vcxproj -> C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 2\Задание 3\WindowsProject8\Debug\WindowsProject8.exe

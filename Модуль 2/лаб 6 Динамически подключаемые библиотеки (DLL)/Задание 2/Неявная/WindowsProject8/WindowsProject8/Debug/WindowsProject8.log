@@ -1,0 +1,12 @@
+﻿  WindowsProject8.cpp
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 6\Задание 2\Неявная\WindowsProject8\WindowsProject8\WindowsProject8.cpp(12,67): warning C4190: для "getDecNumber" задана С-связывание, но возвращаемый тип UDT "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>" несовместим с языком Си
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstring(4649): message : см. объявление "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>"
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 6\Задание 2\Неявная\WindowsProject8\WindowsProject8\WindowsProject8.cpp(13,63): warning C4190: для "getBinNumber" задана С-связывание, но возвращаемый тип UDT "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>" несовместим с языком Си
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstring(4649): message : см. объявление "std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>"
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 6\Задание 2\Неявная\WindowsProject8\WindowsProject8\WindowsProject8.cpp(39,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 6\Задание 2\Неявная\WindowsProject8\WindowsProject8\WindowsProject8.cpp(100,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 6\Задание 2\Неявная\WindowsProject8\WindowsProject8\WindowsProject8.cpp(116,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 6\Задание 2\Неявная\WindowsProject8\WindowsProject8\WindowsProject8.cpp(120,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 6\Задание 2\Неявная\WindowsProject8\WindowsProject8\WindowsProject8.cpp(236,18): warning C4101: key: неиспользованная локальная переменная
+C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 6\Задание 2\Неявная\WindowsProject8\WindowsProject8\WindowsProject8.cpp(94): warning C4715: Number: значение возвращается не при всех путях выполнения
+  WindowsProject8.vcxproj -> C:\Users\User\Desktop\Работа\3 курс\ОСиСП\лаб 6\Задание 2\Неявная\WindowsProject8\Debug\WindowsProject8.exe

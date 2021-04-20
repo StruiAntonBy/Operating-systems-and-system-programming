@@ -1,0 +1,5 @@
+1) https://help4windows.com/windows_7_shell32_dll.shtml
+2) https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messagebox
+3) https://rozov.info/создание-радиокнопки-radiobutton/
+4) https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-checkradiobutton
+5) https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-createwindowa
